@@ -151,7 +151,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/AIM", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS AQUA = new PLANETCLASS(
           "AQUA",
@@ -162,7 +162,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/AQUA", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS AURA = new PLANETCLASS(
               "AURA",
@@ -173,7 +173,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/AURA", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS FGST = new PLANETCLASS(
               "FGST",
@@ -184,7 +184,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/FGST", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES1 = new PLANETCLASS(
                   "GOES 1",
@@ -195,7 +195,7 @@ public class controller : MonoBehaviour
                   0f,
                   new ORBIT("data/SATS/GOES 1", 60),
                   parent: earth,
-                  modelPath: "prefabs/models/GSAT_AURA");
+                  modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES2 = new PLANETCLASS(
                   "GOES 2",
@@ -206,7 +206,7 @@ public class controller : MonoBehaviour
                   0f,
                   new ORBIT("data/SATS/GOES 2", 60),
                   parent: earth,
-                  modelPath: "prefabs/models/GSAT_AURA");
+                  modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES3 = new PLANETCLASS(
                       "GOES 3",
@@ -217,7 +217,7 @@ public class controller : MonoBehaviour
                       0f,
                       new ORBIT("data/SATS/GOES 3", 60),
                       parent: earth,
-                      modelPath: "prefabs/models/GSAT_AURA");
+                      modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES4 = new PLANETCLASS(
                       "GOES 4",
@@ -228,7 +228,7 @@ public class controller : MonoBehaviour
                       0f,
                       new ORBIT("data/SATS/GOES 4", 60),
                       parent: earth,
-                      modelPath: "prefabs/models/GSAT_AURA");
+                      modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES5 = new PLANETCLASS(
                                   "GOES 5",
@@ -239,7 +239,7 @@ public class controller : MonoBehaviour
                                   0f,
                                   new ORBIT("data/SATS/GOES 5", 60),
                                   parent: earth,
-                                  modelPath: "prefabs/models/GSAT_AURA");
+                                  modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES6 = new PLANETCLASS(
                                   "GOES 6",
@@ -250,7 +250,7 @@ public class controller : MonoBehaviour
                                   0f,
                                   new ORBIT("data/SATS/GOES 6", 60),
                                   parent: earth,
-                                  modelPath: "prefabs/models/GSAT_AURA");
+                                  modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES7 = new PLANETCLASS(
                                       "GOES 7",
@@ -261,7 +261,7 @@ public class controller : MonoBehaviour
                                       0f,
                                       new ORBIT("data/SATS/GOES 7", 60),
                                       parent: earth,
-                                      modelPath: "prefabs/models/GSAT_AURA");
+                                      modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES8 = new PLANETCLASS(
                                       "GOES 8",
@@ -272,7 +272,7 @@ public class controller : MonoBehaviour
                                       0f,
                                       new ORBIT("data/SATS/GOES 8", 60),
                                       parent: earth,
-                                      modelPath: "prefabs/models/GSAT_AURA");
+                                      modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES9 = new PLANETCLASS(
                   "GOES 9",
@@ -283,7 +283,7 @@ public class controller : MonoBehaviour
                   0f,
                   new ORBIT("data/SATS/GOES 9", 60),
                   parent: earth,
-                  modelPath: "prefabs/models/GSAT_AURA");
+                  modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES10 = new PLANETCLASS(
                   "GOES 10",
@@ -294,7 +294,7 @@ public class controller : MonoBehaviour
                   0f,
                   new ORBIT("data/SATS/GOES 10", 60),
                   parent: earth,
-                  modelPath: "prefabs/models/GSAT_AURA");
+                  modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES11 = new PLANETCLASS(
                       "GOES 11",
@@ -305,7 +305,7 @@ public class controller : MonoBehaviour
                       0f,
                       new ORBIT("data/SATS/GOES 11", 60),
                       parent: earth,
-                      modelPath: "prefabs/models/GSAT_AURA");
+                      modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES12 = new PLANETCLASS(
                       "GOES 12",
@@ -316,7 +316,7 @@ public class controller : MonoBehaviour
                       0f,
                       new ORBIT("data/SATS/GOES 12", 60),
                       parent: earth,
-                      modelPath: "prefabs/models/GSAT_AURA");
+                      modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES13 = new PLANETCLASS(
                                   "GOES 13",
@@ -327,7 +327,7 @@ public class controller : MonoBehaviour
                                   0f,
                                   new ORBIT("data/SATS/GOES 13", 60),
                                   parent: earth,
-                                  modelPath: "prefabs/models/GSAT_AURA");
+                                  modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES14 = new PLANETCLASS(
                                   "GOES 14",
@@ -338,7 +338,7 @@ public class controller : MonoBehaviour
                                   0f,
                                   new ORBIT("data/SATS/GOES 14", 60),
                                   parent: earth,
-                                  modelPath: "prefabs/models/GSAT_AURA");
+                                  modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES15 = new PLANETCLASS(
                                       "GOES 15",
@@ -349,7 +349,7 @@ public class controller : MonoBehaviour
                                       0f,
                                       new ORBIT("data/SATS/GOES 15", 60),
                                       parent: earth,
-                                      modelPath: "prefabs/models/GSAT_AURA");
+                                      modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES16 = new PLANETCLASS(
                                       "GOES 16",
@@ -360,7 +360,7 @@ public class controller : MonoBehaviour
                                       0f,
                                       new ORBIT("data/SATS/GOES 16", 60),
                                       parent: earth,
-                                      modelPath: "prefabs/models/GSAT_AURA");
+                                      modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GOES17 = new PLANETCLASS(
                   "GOES 17",
@@ -371,7 +371,7 @@ public class controller : MonoBehaviour
                   0f,
                   new ORBIT("data/SATS/GOES 17", 60),
                   parent: earth,
-                  modelPath: "prefabs/models/GSAT_AURA");
+                  modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GPM_CORE = new PLANETCLASS(
           "GPM_CORE",
@@ -382,7 +382,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/GPM_CORE", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GRACEFO1 = new PLANETCLASS(
           "GRACE FO1",
@@ -393,7 +393,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/GRACE-FO1", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS GRACEFO2 = new PLANETCLASS(
               "GRACE FO2",
@@ -404,7 +404,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/GRACE-FO2", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS HST = new PLANETCLASS(
               "HST",
@@ -415,7 +415,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/HST", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS ICESAT2 = new PLANETCLASS(
           "ICESAT 2",
@@ -426,7 +426,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/ICESAT-2", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS ICON = new PLANETCLASS(
           "ICON",
@@ -437,7 +437,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/ICON", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS IRIS = new PLANETCLASS(
               "IRIS",
@@ -448,7 +448,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/IRIS", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS ISS = new PLANETCLASS(
               "ISS",
@@ -459,7 +459,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/ISS", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS LANDSAT7 = new PLANETCLASS(
               "LANDSAT 7",
@@ -470,7 +470,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/LANDSAT-7", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS LANDSAT8 = new PLANETCLASS(
               "LANDSAT 8",
@@ -481,7 +481,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/LANDSAT-8", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS METOPA = new PLANETCLASS(
           "METOP A",
@@ -492,7 +492,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/METOP A", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS METOPB = new PLANETCLASS(
           "METOP B",
@@ -503,7 +503,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/METOP B", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS METOPC = new PLANETCLASS(
               "METOP C",
@@ -514,7 +514,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/METOP_C", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS MMS1 = new PLANETCLASS(
               "MMS 1",
@@ -525,7 +525,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/MMS 1", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS MMS2 = new PLANETCLASS(
          "MMS 2",
@@ -536,7 +536,7 @@ public class controller : MonoBehaviour
          0f,
          new ORBIT("data/SATS/MMS 2", 120),
          parent: earth,
-         modelPath: "prefabs/models/GSAT_AURA");
+         modelPath: "prefabs/models/AURA");
 
       PLANETCLASS MMS3 = new PLANETCLASS(
              "MMS 3",
@@ -547,7 +547,7 @@ public class controller : MonoBehaviour
              0f,
              new ORBIT("data/SATS/MMS 3", 120),
              parent: earth,
-             modelPath: "prefabs/models/GSAT_AURA");
+             modelPath: "prefabs/models/AURA");
 
       PLANETCLASS MMS4 = new PLANETCLASS(
              "MMS 4",
@@ -558,7 +558,7 @@ public class controller : MonoBehaviour
              0f,
              new ORBIT("data/SATS/MMS 4", 120),
              parent: earth,
-             modelPath: "prefabs/models/GSAT_AURA");
+             modelPath: "prefabs/models/AURA");
 
       PLANETCLASS NUSTAR = new PLANETCLASS(
          "NUSTAR",
@@ -569,7 +569,7 @@ public class controller : MonoBehaviour
          0f,
          new ORBIT("data/SATS/NUSTAR", 120),
          parent: earth,
-         modelPath: "prefabs/models/GSAT_AURA");
+         modelPath: "prefabs/models/AURA");
 
       PLANETCLASS OCO2 = new PLANETCLASS(
          "OCO 2",
@@ -580,7 +580,7 @@ public class controller : MonoBehaviour
          0f,
          new ORBIT("data/SATS/OCO-2", 120),
          parent: earth,
-         modelPath: "prefabs/models/GSAT_AURA");
+         modelPath: "prefabs/models/AURA");
 
       PLANETCLASS SCISAT1 = new PLANETCLASS(
              "SCISAT 1",
@@ -591,7 +591,7 @@ public class controller : MonoBehaviour
              0f,
              new ORBIT("data/SATS/SCISAT-1", 120),
              parent: earth,
-             modelPath: "prefabs/models/GSAT_AURA");
+             modelPath: "prefabs/models/AURA");
 
       PLANETCLASS SDO = new PLANETCLASS(
              "SDO",
@@ -602,7 +602,7 @@ public class controller : MonoBehaviour
              0f,
              new ORBIT("data/SATS/SDO", 120),
              parent: earth,
-             modelPath: "prefabs/models/GSAT_AURA");
+             modelPath: "prefabs/models/AURA");
 
       PLANETCLASS SEAHAWK1 = new PLANETCLASS(
           "SEAHAWK 1",
@@ -613,7 +613,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/SEAHAWK-1", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS SMAP = new PLANETCLASS(
               "SMAP",
@@ -624,7 +624,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/SMAP", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS SOLARB = new PLANETCLASS(
               "SOLAR B",
@@ -635,7 +635,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/SOLAR-B", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS SOYUZ = new PLANETCLASS(
           "SOYUZ",
@@ -646,7 +646,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/SOYUZ", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS STPSAT3 = new PLANETCLASS(
           "STPSat 3",
@@ -657,7 +657,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/STPSat-3", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS STPSAT4 = new PLANETCLASS(
               "STPSat 4",
@@ -668,7 +668,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/STPSat-4", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS STPSAT5 = new PLANETCLASS(
               "STPSat5",
@@ -679,7 +679,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/STPSat-5", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS SWIFT = new PLANETCLASS(
           "SWIFT",
@@ -690,7 +690,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/SWIFT", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS TDRS3 = new PLANETCLASS(
               "TDRS 3",
@@ -701,7 +701,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/TDRS-3", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS TDRS5 = new PLANETCLASS(
               "TDRS 5",
@@ -712,7 +712,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/TDRS-5", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS TDRS6 = new PLANETCLASS(
           "TDRS 6",
@@ -723,7 +723,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/TDRS-6", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS TDRS7 = new PLANETCLASS(
           "TDRS 7",
@@ -734,7 +734,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/TDRS-7", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS TDRS8 = new PLANETCLASS(
               "TDRS 8",
@@ -745,7 +745,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/TDRS-8", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS TDRS9 = new PLANETCLASS(
               "TDRS 9",
@@ -756,7 +756,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/TDRS-9", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS TDRS10 = new PLANETCLASS(
               "TDRS 10",
@@ -767,7 +767,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/TDRS-10", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS TDRS11 = new PLANETCLASS(
               "TDRS 11",
@@ -778,7 +778,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/TDRS-11", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS TDRS12 = new PLANETCLASS(
           "TDRS 12",
@@ -789,7 +789,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/TDRS-12", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS TDRS13 = new PLANETCLASS(
           "TDRS 13",
@@ -800,7 +800,7 @@ public class controller : MonoBehaviour
           0f,
           new ORBIT("data/SATS/TDRS-13", 120),
           parent: earth,
-          modelPath: "prefabs/models/GSAT_AURA");
+          modelPath: "prefabs/models/AURA");
 
       PLANETCLASS TERRA = new PLANETCLASS(
               "TERRA",
@@ -811,7 +811,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/TERRA", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS THEMISA = new PLANETCLASS(
               "THEMIS A",
@@ -822,7 +822,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/THEMIS_A", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS THEMISD = new PLANETCLASS(
               "THEMIS D",
@@ -833,7 +833,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/THEMIS_D", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
 
       PLANETCLASS THEMISE = new PLANETCLASS(
               "THEMIS E",
@@ -844,7 +844,7 @@ public class controller : MonoBehaviour
               0f,
               new ORBIT("data/SATS/THEMIS_E", 120),
               parent: earth,
-              modelPath: "prefabs/models/GSAT_AURA");
+              modelPath: "prefabs/models/AURA");
     }
 
     private static void earthAboutMoonPreset()
