@@ -42,23 +42,23 @@ If you have any questions regarding this project, feel free to connect with Vick
 
 ## Prerequisites
 
-*Unity should be installed on your device before opening the project.
-*This project currently works under version 2020.3.8f1 of Unity.
-*WebGL Build Support should be installed as a platform.
- -To do this, go to Installs in Unity Hub.
- -Under the 2020.3.8f1 version, click Add Modules.
- -Find WebGL and install.
-*Github Desktop should be installed on your device
+* Unity should be installed on your device before opening the project.
+* This project currently works under version 2020.3.8f1 of Unity.
+* WebGL Build Support should be installed as a platform.
+ - To do this, go to Installs in Unity Hub.
+ - Under the 2020.3.8f1 version, click Add Modules.
+ - Find WebGL and install.
+* Github Desktop should be installed on your device
 
 ## Adding The Project To Unity
 
 This project was built on Unity. To be able to see it on that platform, perform the following steps:
-*Begin by downloading all the project files to your computer. 
-*Open the Unity Hub app.
-*Select the "ADD" button under the projects tab.
-*Select the corresponding project file on your computer.
-*Make sure that the current Target Platform is WebGL and that the Unity Version is 2020.3.8f1.
-*Open the project once added.
+* Begin by downloading all the project files to your computer. 
+* Open the Unity Hub app.
+* Select the "ADD" button under the projects tab.
+* Select the corresponding project file on your computer.
+* Make sure that the current Target Platform is WebGL and that the Unity Version is 2020.3.8f1.
+* Open the project once added.
 
 # Usage
 
@@ -69,22 +69,22 @@ To begin with MVT, click the start button to navigate out of the home screen. Un
 # Contributions
 
 We welcome contributions and additions! To make a change you must:
-*Fork the repository.
-*Make the change on Unity
-*Build the project using WebGL. Select the folder ProjectName > Builds and add a new build number.
-*Open Github Desktop and open the repository.
-*Commit and push your changes onto Github
-*To open a website of the changed project:
- -Go to settings in your repository
- -Go to Pages within Settings
- -Select branch as master under Source
- -Open the website at username.github.io/project-name/Builds/buildNumber/pageName.html (example url, replace fields with corresponding information)
+* Fork the repository.
+* Make the change on Unity
+* Build the project using WebGL. Select the folder ProjectName > Builds and add a new build number.
+* Open Github Desktop and open the repository.
+* Commit and push your changes onto Github
+* To open a website of the changed project:
+ - Go to settings in your repository
+ - Go to Pages within Settings
+ - Select branch as master under Source
+ - Open the website at username.github.io/project-name/Builds/buildNumber/pageName.html (example url, replace fields with corresponding information)
  
  Please be conscious of crediting our work when changes are made.
  
  # Acknowledgements
  
- We'd like to begin by thanking NASA as a whole for the opportunity to intern this summer. The Goddard Space Flight center did a particularly good job of making our internships meaningful and exciting experiences. The Space Communications and Navigations (SCaN) team were incredibly welcoming and kind to us and aided us immensely during our project.
+We'd like to begin by thanking NASA as a whole for the opportunity to intern this summer. The Goddard Space Flight center did a particularly good job of making our internships meaningful and exciting experiences. The Space Communications and Navigations (SCaN) team were incredibly welcoming and kind to us and aided us immensely during our project.
  
 We cannot thank our mentor, George D. Bussey, enough for all of his help during this summer. He went above and beyond to provide an educational and worthwhile project. We would also like to thank our co-mentor, Elana Resnick, for helping those who attend Gilman school be a part of this project.
 
