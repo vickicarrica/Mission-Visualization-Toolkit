@@ -32,7 +32,7 @@ This Github Repository contains the source code that is used for the Mission Vis
 # About Us
 
 Hello! We are a team of five high schoolers who were brought together by NASA and spent our summer working on this visualization.
-Our names are Aman Garg (Gilman School, class of 2024), Arya Kazemnia (Gilman School, class of 2024), Leo Wang (Gilman School, class of 2024), Vicki Carrica (Old Saybrook High School, class of 2023), and Zoe Schoeneman-Frye (Montgomery Blair High School, class of 2022). Aman, Arya, and Leo are participating in an Extended Learning Opportunity (ELO) this summer due to not meeting the age requirements to be official NASA interns, while Vicki and Zoe are both participating in their first internships at NASA. 
+Our names are Aman Garg (Gilman School, class of 2024), Arya Kazemnia (Gilman School, class of 2024), Leo Wang (Gilman School, class of 2024), Vicki Carrica (Old Saybrook High School, class of 2023), and Zoe Schoeneman-Frye (Montgomery Blair High School, class of 2022). Aman, Arya, and Leo are participating in an Experiential Learning Opportunity (ELO) this summer due to not meeting the age requirements to be official NASA interns, while Vicki and Zoe are both participating in their first internships at NASA. 
 
 ## Contact Us
 
@@ -82,7 +82,7 @@ We welcome contributions and additions! To make a change you must:
  
  Please be conscious of crediting our work when changes are made.
  
- # Acknowledgements
+# Acknowledgements
  
 We'd like to begin by thanking NASA as a whole for the opportunity to intern this summer. The Goddard Space Flight center did a particularly good job of making our internships meaningful and exciting experiences. The Space Communications and Navigations (SCaN) team were incredibly welcoming and kind to us and aided us immensely during our project.
  
