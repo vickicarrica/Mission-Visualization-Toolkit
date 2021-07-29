@@ -27,7 +27,7 @@
 
 # Welcome
 
-This Github Repository contains the source code that is used for the Mission Visualization Toolkit (MVT), an executable that simplifies visualization for the Space Communications and Navigations (SCaN) network in 3D space. This project was developed as a part of a NASA internship opportunity. To view the project navigate to [this link](vickicarrica.github.io/mission-visualization-toolkit/Builds/five/vis.html).
+This Github Repository contains the source code that is used for the Mission Visualization Toolkit (MVT), an executable that simplifies visualization for the Space Communications and Navigations (SCaN) network in 3D space. This project was developed as a part of a NASA internship opportunity. To view the project navigate to [this link](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/eight/page.html).
 
 # About Us
 
