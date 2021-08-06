@@ -1,6 +1,10 @@
+# Table Of Contents
+
 <details open="open">
-  <summary>Table of Contents</summary>
   <ol>
+    <li>
+      <a href="#website-link">Website Link</a>
+    </li>
     <li>
       <a href="#welcome">Welcome</a>
     </li>
