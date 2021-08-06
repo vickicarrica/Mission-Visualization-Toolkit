@@ -1,6 +1,7 @@
 # Table Of Contents
 
 <details open="open">
+  <summary>Contents</summary>
   <ol>
     <li>
       <a href="#website-link">Website Link</a>
