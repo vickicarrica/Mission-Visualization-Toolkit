@@ -1,6 +1,6 @@
 # Table Of Contents
 
-<details open="open">
+<contents open="open">
   <ol>
     <li>
       <a href="#website-link">Website Link</a>
