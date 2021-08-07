@@ -48,7 +48,12 @@ Our names are Aman Garg (Gilman School, class of 2024), Arya Kazemnia (Gilman Sc
 
 ### Contact Us
 
-If you have any questions regarding this project, feel free to connect with Vicki Carrica at vickicarrica@yahoo.com and she can put you in contact with whoever is most likely to be able to help you. 
+If you have any questions regarding this project, feel free to connect with us! We are more than happy to chat with you.
+Vicki Carrica at [vickicarrica@yahoo.com](mailto:vickicarrica@yahoo.com?subject=VCMAIL "Type any questions or concerns here!"). 
+Zoe Schoeneman-Frye at [zoesfrye@gmail.com](mailto:zoesfrye@gmail.com?subject=ZSFMAIL "Type any questions or concerns here!"). 
+Aman Garg at [agarg24@students.gilman.edu](mailto:agarg24@students.gilman.edu?subject=AGMAIL "Type any questions or concerns here!"). 
+Arya Kazemnia at [akazemnia24@students.gilman.edu](mailto:akazemnia24@students.gilman.edu?subject=AKMAIL "Type any questions or concerns here!"). 
+Leo Wang at [lwang@students.gilman.edu](mailto:lwang@students.gilman.edu?subject=LWMAIL "Type any questions or concerns here!"). 
 
 ## Getting Started
 
@@ -80,7 +85,7 @@ Upon opening MVT, you will see a screen with a start button. Click it to begin a
 
 On the left toolbar, the fifth icon from the top, shaped as an "i", is the information button. For more specific and detailed information regarding MVT usage, please refer to that.
 
-# Left Toolbar
+### Left Toolbar
 
 All of the left tool bar buttons and their basic function, starting at the top and going down.
 * Planet Creator: Used to create satellites.
@@ -89,7 +94,7 @@ All of the left tool bar buttons and their basic function, starting at the top a
 * JSON Load: Used to load in another scenario.
 * Info: More information on how to use the visualization.
 
-# Bottom Toolbar
+### Bottom Toolbar
 
 All of the botton toolbar buttons and their basic function.
 * Time Increment Textbox/Scroll: Used to set the amount of simulated time in seconds that pass during one real second.
