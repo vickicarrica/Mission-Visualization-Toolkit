@@ -1,5 +1,7 @@
 # Mission Visualization Toolkit
 
+![MVT_Logo](https://user-images.githubusercontent.com/66328989/128603431-6cd6febe-86e1-4994-894b-efb5ffda8cd5.png)
+
 ## Table of Contents
 
 <details open="open">
@@ -37,8 +39,6 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
-![MVT_Logo](https://user-images.githubusercontent.com/66328989/128603431-6cd6febe-86e1-4994-894b-efb5ffda8cd5.png)
 
 # Website Link
 
@@ -217,6 +217,9 @@ All of the botton toolbar buttons and their basic function.
 * Time Increment Textbox/Scroll: Used to set the amount of simulated time in seconds that pass during one real second.
 * Play/Pause: Used to start and pause the simulation.
 * Fast forward/backwards: Used to skip a certain amount of time into the future or past of the current time in the simulation.
+
+## Previous Builds
+
 
 # Contributions
 
