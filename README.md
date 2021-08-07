@@ -13,6 +13,12 @@
     <li>
       <a href="#about-us">About Us</a>
       <ul>
+        <li><a href="#elo-group">ELO Group</a></li>
+      </ul>
+      <ul>
+        <li><a href="#intern-group">Intern Group</a></li>
+      </ul>
+      <ul>
         <li><a href="#contact-us">Contact Us</a></li>
       </ul>
     </li>
