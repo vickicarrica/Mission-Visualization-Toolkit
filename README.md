@@ -150,7 +150,7 @@ Perfect Meeting Attendence Record
 
 Also known as: Zo
 
-<img src="https://user-images.githubusercontent.com/66328989/128612593-b84e69cf-1c1c-4a65-ae69-2e5b5ffbd224.png" width="120">
+<img src="https://user-images.githubusercontent.com/66328989/128612593-b84e69cf-1c1c-4a65-ae69-2e5b5ffbd224.png" width="200">
 
 **Montgomery Blair High School, Class of 2022**
 
