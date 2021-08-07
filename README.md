@@ -51,7 +51,9 @@ Aman, Arya, and Leo participated in an Experiential Learning Opportunity (ELO) t
 
 **Aman Garg**
 Also known as: AMOON
+
 ![Aman](https://user-images.githubusercontent.com/66328989/128611899-37e144fc-fdcc-4895-8e90-3d45ddd78c27.png)
+
 **Gilman Upper School, Class of 2024**
 **Future Biologist**
 Front End Developer
@@ -61,7 +63,9 @@ Vegetarian
 
 **Arya Kazemnia**
 Also known as: Array
+
 ![Arya](https://user-images.githubusercontent.com/66328989/128612045-f1d2a18a-8911-42d6-b3a1-392562c802ae.png)
+
 **Gilman Upper School, Class of 2024**
 **Future Biomedical Engineer**
 Data Manager
@@ -71,7 +75,9 @@ Story Telling Master
 
 **Leo Wang**
 Also known as: Andallfor, Lei
+
 ![Leo](https://user-images.githubusercontent.com/66328989/128612321-b70fcd5f-f65f-443f-b787-6eae9e5f9cb7.png)
+
 **Gilman Upper School, Class of 2024**
 **Future Computer Scientist**
 Back End Developer
@@ -85,7 +91,9 @@ Vicki and Zoe were official interns and both participated in their first NASA in
 
 **Vicki Carrica**
 Also known as: Vick
+
 ![Vicki](https://user-images.githubusercontent.com/66328989/128612455-7e67781e-39ce-4867-97c0-49fc578b2fde.png)
+
 **Old Saybrook High School, Class of 2023**
 **Future Computational Biologist**
 Algorithm Engineer
@@ -95,7 +103,9 @@ Perfect Meeting Attendence Record
 
 **Zoe Schoeneman-Frye**
 Also known as: Zo
+
 ![Zoe](https://user-images.githubusercontent.com/66328989/128612593-b84e69cf-1c1c-4a65-ae69-2e5b5ffbd224.png)
+
 **Montgomery Blair High School, Class of 2022**
 **Future Computer Scientist**
 Test Engineer
