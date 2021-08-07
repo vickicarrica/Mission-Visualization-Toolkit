@@ -156,8 +156,6 @@ Anime Connoisseur
 
 Fashionista 
 
-<br/></br>
-
 ## Contact Us
 
 If you have any questions regarding this project, feel free to connect with us! We are more than happy to chat with you.
