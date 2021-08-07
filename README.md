@@ -1,4 +1,4 @@
-# Mission Visualization Toolkit
+![MVT_Logo](https://user-images.githubusercontent.com/66328989/128603431-6cd6febe-86e1-4994-894b-efb5ffda8cd5.png)
 
 ## Table of Contents
 
@@ -35,8 +35,6 @@
 ## Website Link
 
 To view the project navigate to **[this link](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/fourteen/page.html)**.
-
-![MVT_Logo](https://user-images.githubusercontent.com/66328989/128603431-6cd6febe-86e1-4994-894b-efb5ffda8cd5.png)
 
 ## Welcome
 
