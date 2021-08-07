@@ -69,6 +69,7 @@ Vegetarian
 
 
 
+
 **Arya Kazemnia**
 
 Also known as: Array
@@ -89,6 +90,7 @@ Story Telling Master
 
 
 
+
 **Leo Wang**
 
 Also known as: Andallfor, Lei
@@ -106,6 +108,7 @@ Programming Wizard
 Public Speaking Genius
 
 Remarkable Skills in Working Until 8 AM.
+
 
 
 
@@ -133,6 +136,7 @@ Perfect Meeting Attendence Record
 
 
 
+
 **Zoe Schoeneman-Frye**
 
 Also known as: Zo
@@ -150,6 +154,8 @@ Graphic Design
 Anime Connoisseur
 
 Fashionista 
+
+
 
 ### Contact Us
 
