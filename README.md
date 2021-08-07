@@ -45,7 +45,7 @@ This Github Repository contains the source code that is used for the Mission Vis
 
 Hello! We are a team of five high schoolers who were brought together by NASA and spent our summer working on this visualization. Throughout our time at NASA, sharing this project (and extensive amounts of time on Stack Overflow) caused us to become closer as teammates and friends. Get to know more about each of us and our roles here. 
 
-### ELO Group
+## ELO Group
 
 Aman, Arya, and Leo participated in an Experiential Learning Opportunity (ELO) this summer due to not meeting the age requirements to be official NASA interns. They did so after placing highly in NASA's App Development Challenge (ADC) for their school.
 
@@ -109,7 +109,7 @@ Remarkable Skills in Working Until 8 AM.
 
 *
 
-### Intern Group
+## Intern Group
 
 Vicki and Zoe were official interns and both participated in their first NASA internships this summer.
 
