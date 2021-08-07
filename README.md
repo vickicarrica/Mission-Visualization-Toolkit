@@ -41,7 +41,7 @@ To view the project navigate to **[this link](https://vickicarrica.github.io/Mis
 
 This Github Repository contains the source code that is used for the Mission Visualization Toolkit (MVT), a program that simplifies visualization for the Space Communications and Navigations (SCaN) network in 3D space. This project was developed as a part of a NASA internship opportunity. 
 
-## About Us
+# About Us
 
 Hello! We are a team of five high schoolers who were brought together by NASA and spent our summer working on this visualization. Throughout our time at NASA, sharing this project (and extensive amounts of time on Stack Overflow) caused us to become closer as teammates and friends. Get to know more about each of us and our roles here. 
 
@@ -157,7 +157,7 @@ Fashionista
 
 
 
-### Contact Us
+## Contact Us
 
 If you have any questions regarding this project, feel free to connect with us! We are more than happy to chat with you.
 * Vicki Carrica at [vickicarrica@yahoo.com](mailto:vickicarrica@yahoo.com?subject=VCMAIL "Type any questions or concerns here!"). 
@@ -166,9 +166,9 @@ If you have any questions regarding this project, feel free to connect with us! 
 * Arya Kazemnia at [akazemnia24@students.gilman.edu](mailto:akazemnia24@students.gilman.edu?subject=AKMAIL "Type any questions or concerns here!"). 
 * Leo Wang at [lwang@students.gilman.edu](mailto:lwang@students.gilman.edu?subject=LWMAIL "Type any questions or concerns here!"). 
 
-## Getting Started
+# Getting Started
 
-### Prerequisites
+## Prerequisites
 
 * Unity should be installed on your device before opening the project.
 * This project currently works under version 2020.3.8f1 of Unity.
@@ -178,7 +178,7 @@ If you have any questions regarding this project, feel free to connect with us! 
  - Find WebGL and install.
 * Github Desktop should be installed on your device
 
-### Adding The Project To Unity
+## Adding The Project To Unity
 
 This project was built on Unity. To be able to see it on that platform, perform the following steps:
 * Begin by downloading all the project files to your computer. 
@@ -188,7 +188,7 @@ This project was built on Unity. To be able to see it on that platform, perform 
 * Make sure that the current Target Platform is WebGL and that the Unity Version is 2020.3.8f1.
 * Open the project once added.
 
-## Usage
+# Usage
 
 MVT is built to extend the capabilities of STK and replace it in some capacity. It will allow SCaN systems to be visualized in an interactive space, one in which the perspective of the viewer could explore the 3D visualization with time manipulation as opposed to the video-like experience generated from STK. The operational cost of MVT is quite low, almost negligible, and it operates in real-time. To display STK in a browser is a time intensive and difficult task where MVT is less convoluted to make it more accessible to not only NASA employees but also NASA customers.
 
@@ -212,7 +212,7 @@ All of the botton toolbar buttons and their basic function.
 * Play/Pause: Used to start and pause the simulation.
 * Fast forward/backwards: Used to skip a certain amount of time into the future or past of the current time in the simulation.
 
-## Contributions
+# Contributions
 
 We welcome contributions and additions! To make a change you must:
 * Fork the repository.
@@ -228,7 +228,7 @@ We welcome contributions and additions! To make a change you must:
  
  Please be conscious of crediting our work when changes are made.
  
-## Acknowledgements
+# Acknowledgements
  
 We'd like to begin by thanking NASA as a whole for the opportunity to intern this summer. The Goddard Space Flight center did a particularly good job of making our internships meaningful and exciting experiences. The Space Communications and Navigations (SCaN) team were incredibly welcoming and kind to us and aided us immensely during our project.
  
