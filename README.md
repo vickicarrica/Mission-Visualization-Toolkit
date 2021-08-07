@@ -49,6 +49,8 @@ Hello! We are a team of five high schoolers who were brought together by NASA an
 
 Aman, Arya, and Leo participated in an Experiential Learning Opportunity (ELO) this summer due to not meeting the age requirements to be official NASA interns. They did so after placing highly in NASA's App Development Challenge (ADC) for their school.
 
+<br/></br>
+
 **Aman Garg**
 
 Also known as: AMOON
