@@ -88,7 +88,7 @@ Still Developing Spelling SKills
 
 Story Telling Master
 
-
+<br/></br>
 
 
 **Leo Wang**
@@ -109,7 +109,7 @@ Public Speaking Genius
 
 Remarkable Skills in Working Until 8 AM.
 
-
+<br/></br>
 
 
 ## Intern Group
@@ -134,7 +134,7 @@ Bagel Fanatic
 
 Perfect Meeting Attendence Record
 
-
+<br/></br>
 
 
 **Zoe Schoeneman-Frye**
@@ -155,7 +155,7 @@ Anime Connoisseur
 
 Fashionista 
 
-
+<br/></br>
 
 ## Contact Us
 
