@@ -67,7 +67,7 @@ Valuable Experience in Starting Microsoft Teams Meetings
 
 Vegetarian
 
-*
+
 
 **Arya Kazemnia**
 
@@ -87,7 +87,7 @@ Still Developing Spelling SKills
 
 Story Telling Master
 
-*
+
 
 **Leo Wang**
 
@@ -107,7 +107,7 @@ Public Speaking Genius
 
 Remarkable Skills in Working Until 8 AM.
 
-*
+
 
 ## Intern Group
 
@@ -131,7 +131,7 @@ Bagel Fanatic
 
 Perfect Meeting Attendence Record
 
-*
+
 
 **Zoe Schoeneman-Frye**
 
