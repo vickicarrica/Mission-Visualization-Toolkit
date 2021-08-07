@@ -74,7 +74,7 @@ Valuable Experience in Starting Microsoft Teams Meetings
 
 Vegetarian
 
-<br/></>
+<br/>
 
 
 **Arya Kazemnia**
@@ -95,7 +95,7 @@ Still Developing Spelling SKills
 
 Story Telling Master
 
-<br/></br>
+<br/>
 
 
 **Leo Wang**
