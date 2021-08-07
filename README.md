@@ -142,7 +142,7 @@ Bagel Fanatic
 
 Perfect Meeting Attendence Record
 
-<br/></br>
+<br/>
 
 
 **Zoe Schoeneman-Frye**
