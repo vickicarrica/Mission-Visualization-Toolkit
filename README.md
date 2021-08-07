@@ -53,7 +53,7 @@ Aman, Arya, and Leo participated in an Experiential Learning Opportunity (ELO) t
 
 Also known as: AMOON
 
-<img src="https://user-images.githubusercontent.com/66328989/128611899-37e144fc-fdcc-4895-8e90-3d45ddd78c27.png" width="90">
+<img src="https://user-images.githubusercontent.com/66328989/128611899-37e144fc-fdcc-4895-8e90-3d45ddd78c27.png" width="120">
 
 **Gilman Upper School, Class of 2024**
 
@@ -72,7 +72,7 @@ Vegetarian
 
 Also known as: Array
 
-<img src="https://user-images.githubusercontent.com/66328989/128612045-f1d2a18a-8911-42d6-b3a1-392562c802ae.png" width="90">
+<img src="https://user-images.githubusercontent.com/66328989/128612045-f1d2a18a-8911-42d6-b3a1-392562c802ae.png" width="120">
 
 **Gilman Upper School, Class of 2024**
 
@@ -91,7 +91,7 @@ Story Telling Master
 
 Also known as: Andallfor, Lei
 
-<img src="https://user-images.githubusercontent.com/66328989/128612321-b70fcd5f-f65f-443f-b787-6eae9e5f9cb7.png" width="90">
+<img src="https://user-images.githubusercontent.com/66328989/128612321-b70fcd5f-f65f-443f-b787-6eae9e5f9cb7.png" width="120">
 
 **Gilman Upper School, Class of 2024**
 
@@ -114,7 +114,7 @@ Vicki and Zoe were official interns and both participated in their first NASA in
 
 Also known as: Vick
 
-<img src="https://user-images.githubusercontent.com/66328989/128612455-7e67781e-39ce-4867-97c0-49fc578b2fde.png" width="90">
+<img src="https://user-images.githubusercontent.com/66328989/128612455-7e67781e-39ce-4867-97c0-49fc578b2fde.png" width="120">
 
 **Old Saybrook High School, Class of 2023**
 
@@ -133,7 +133,7 @@ Perfect Meeting Attendence Record
 
 Also known as: Zo
 
-<img src="https://user-images.githubusercontent.com/66328989/128612593-b84e69cf-1c1c-4a65-ae69-2e5b5ffbd224.png" width="90">
+<img src="https://user-images.githubusercontent.com/66328989/128612593-b84e69cf-1c1c-4a65-ae69-2e5b5ffbd224.png" width="120">
 
 **Montgomery Blair High School, Class of 2022**
 
