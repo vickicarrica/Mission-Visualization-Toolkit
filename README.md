@@ -35,6 +35,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#previous-builds">Previous Builds</a></li>
     <li><a href="#contributions">Contributions</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -220,6 +221,17 @@ All of the botton toolbar buttons and their basic function.
 
 ## Previous Builds
 
+Here is a list of all working previous versions of our website. All versions can be found in the Builds folder of the Github repository.
+* [Build 1](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/five/vis.html)
+* [Build 2](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/six/pagea.html)
+* [Build 3](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/seven/pageb.html)
+* [Build 4](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/eight/pagec.html)
+* [Build 5](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/nine/paged.html)
+* [Build 6](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/ten/pagee.html)
+* [Build 7](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/eleven/pagef.html)
+* [Build 8](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/twelve/pageg.html)
+* [Build 9](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/thirteen/pageh.html)
+* **[Current Build](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/fourteen/page.html)**
 
 # Contributions
 
