@@ -1,4 +1,3 @@
-![MVT_Logo](https://user-images.githubusercontent.com/66328989/128603431-6cd6febe-86e1-4994-894b-efb5ffda8cd5.png)
 
 ## Table of Contents
 
@@ -31,6 +30,8 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
+
+![MVT_Logo](https://user-images.githubusercontent.com/66328989/128603431-6cd6febe-86e1-4994-894b-efb5ffda8cd5.png)
 
 ## Website Link
 
@@ -75,7 +76,25 @@ This project was built on Unity. To be able to see it on that platform, perform 
 
 MVT is built to extend the capabilities of STK and replace it in some capacity. It will allow SCaN systems to be visualized in an interactive space, one in which the perspective of the viewer could explore the 3D visualization with time manipulation as opposed to the video-like experience generated from STK. The operational cost of MVT is quite low, almost negligible, and it operates in real-time. To display STK in a browser is a time intensive and difficult task where MVT is less convoluted to make it more accessible to not only NASA employees but also NASA customers.
 
-To begin with MVT, click the start button to navigate out of the home screen. Under the navigation tab, select a planet or satellite to follow and one as the reference frame. Change the slider above the start button to 120 and click play to begin the visualization. Further details on its usage will be included later.
+Upon opening MVT, you will see a screen with a start button. Click it to begin and be directed to the main view. Once the main view loads, you will be prompted to either build with the preset or build with a new scenario, for those with custom files. We recommend beginner users to start with the preset.
+
+On the left toolbar, the fifth icon from the top, shaped as an "i", is the information button. For more specific and detailed information regarding MVT usage, please refer to that.
+
+# Left Toolbar
+
+All of the left tool bar buttons and their basic function, starting at the top and going down.
+* Planet Creator: Used to create satellites.
+* Navigation: Used to choose a reference frame, follow a specific object, as well as providing data about that object.
+* JSON Save: Used to save your current scenario.
+* JSON Load: Used to load in another scenario.
+* Info: More information on how to use the visualization.
+
+# Bottom Toolbar
+
+All of the botton toolbar buttons and their basic function.
+* Time Increment Textbox/Scroll: Used to set the amount of simulated time in seconds that pass during one real second.
+* Play/Pause: Used to start and pause the simulation.
+* Fast forward/backwards: Used to skip a certain amount of time into the future or past of the current time in the simulation.
 
 ## Contributions
 
