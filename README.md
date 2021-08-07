@@ -53,7 +53,7 @@ Aman, Arya, and Leo participated in an Experiential Learning Opportunity (ELO) t
 
 Also known as: AMOON
 
-<img src="https://user-images.githubusercontent.com/66328989/128611899-37e144fc-fdcc-4895-8e90-3d45ddd78c27.png" width="120">
+<img src="https://user-images.githubusercontent.com/66328989/128611899-37e144fc-fdcc-4895-8e90-3d45ddd78c27.png" width="200">
 
 **Gilman Upper School, Class of 2024**
 
@@ -67,12 +67,13 @@ Valuable Experience in Starting Microsoft Teams Meetings
 
 Vegetarian
 
+*
 
 **Arya Kazemnia**
 
 Also known as: Array
 
-<img src="https://user-images.githubusercontent.com/66328989/128612045-f1d2a18a-8911-42d6-b3a1-392562c802ae.png" width="120">
+<img src="https://user-images.githubusercontent.com/66328989/128612045-f1d2a18a-8911-42d6-b3a1-392562c802ae.png" width="200">
 
 **Gilman Upper School, Class of 2024**
 
@@ -86,12 +87,13 @@ Still Developing Spelling SKills
 
 Story Telling Master
 
+*
 
 **Leo Wang**
 
 Also known as: Andallfor, Lei
 
-<img src="https://user-images.githubusercontent.com/66328989/128612321-b70fcd5f-f65f-443f-b787-6eae9e5f9cb7.png" width="120">
+<img src="https://user-images.githubusercontent.com/66328989/128612321-b70fcd5f-f65f-443f-b787-6eae9e5f9cb7.png" width="200">
 
 **Gilman Upper School, Class of 2024**
 
@@ -105,6 +107,7 @@ Public Speaking Genius
 
 Remarkable Skills in Working Until 8 AM.
 
+*
 
 ### Intern Group
 
@@ -114,7 +117,7 @@ Vicki and Zoe were official interns and both participated in their first NASA in
 
 Also known as: Vick
 
-<img src="https://user-images.githubusercontent.com/66328989/128612455-7e67781e-39ce-4867-97c0-49fc578b2fde.png" width="120">
+<img src="https://user-images.githubusercontent.com/66328989/128612455-7e67781e-39ce-4867-97c0-49fc578b2fde.png" width="200">
 
 **Old Saybrook High School, Class of 2023**
 
@@ -128,6 +131,7 @@ Bagel Fanatic
 
 Perfect Meeting Attendence Record
 
+*
 
 **Zoe Schoeneman-Frye**
 
