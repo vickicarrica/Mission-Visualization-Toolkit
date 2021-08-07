@@ -49,10 +49,15 @@ Our names are Aman Garg (Gilman School, class of 2024), Arya Kazemnia (Gilman Sc
 ### Contact Us
 
 If you have any questions regarding this project, feel free to connect with us! We are more than happy to chat with you.
+
 Vicki Carrica at [vickicarrica@yahoo.com](mailto:vickicarrica@yahoo.com?subject=VCMAIL "Type any questions or concerns here!"). 
+
 Zoe Schoeneman-Frye at [zoesfrye@gmail.com](mailto:zoesfrye@gmail.com?subject=ZSFMAIL "Type any questions or concerns here!"). 
+
 Aman Garg at [agarg24@students.gilman.edu](mailto:agarg24@students.gilman.edu?subject=AGMAIL "Type any questions or concerns here!"). 
+
 Arya Kazemnia at [akazemnia24@students.gilman.edu](mailto:akazemnia24@students.gilman.edu?subject=AKMAIL "Type any questions or concerns here!"). 
+
 Leo Wang at [lwang@students.gilman.edu](mailto:lwang@students.gilman.edu?subject=LWMAIL "Type any questions or concerns here!"). 
 
 ## Getting Started
