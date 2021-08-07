@@ -43,8 +43,65 @@ This Github Repository contains the source code that is used for the Mission Vis
 
 ## About Us
 
-Hello! We are a team of five high schoolers who were brought together by NASA and spent our summer working on this visualization.
-Our names are Aman Garg (Gilman School, class of 2024), Arya Kazemnia (Gilman School, class of 2024), Leo Wang (Gilman School, class of 2024), Vicki Carrica (Old Saybrook High School, class of 2023), and Zoe Schoeneman-Frye (Montgomery Blair High School, class of 2022). Aman, Arya, and Leo are participating in an Experiential Learning Opportunity (ELO) this summer due to not meeting the age requirements to be official NASA interns, while Vicki and Zoe are both participating in their first internships at NASA. 
+Hello! We are a team of five high schoolers who were brought together by NASA and spent our summer working on this visualization. Throughout our time at NASA, sharing this project (and extensive amounts of time on Stack Overflow) caused us to become closer as teammates and friends. Get to know more about each of us and our roles here. 
+
+### ELO Group
+
+Aman, Arya, and Leo participated in an Experiential Learning Opportunity (ELO) this summer due to not meeting the age requirements to be official NASA interns. They did so after placing highly in NASA's App Development Challenge (ADC) for their school.
+
+**Aman Garg**
+Also known as: AMOON
+![Aman](https://user-images.githubusercontent.com/66328989/128611899-37e144fc-fdcc-4895-8e90-3d45ddd78c27.png)
+**Gilman Upper School, Class of 2024**
+**Future Biologist**
+Front End Developer
+3D Modeling Expert
+Valuable Experience in Starting Microsoft Teams Meetings
+Vegetarian
+
+**Arya Kazemnia**
+Also known as: Array
+![Arya](https://user-images.githubusercontent.com/66328989/128612045-f1d2a18a-8911-42d6-b3a1-392562c802ae.png)
+**Gilman Upper School, Class of 2024**
+**Future Biomedical Engineer**
+Data Manager
+Specialist in Everything
+Still Developing Spelling SKills
+Story Telling Master
+
+**Leo Wang**
+Also known as: Andallfor, Lei
+![Leo](https://user-images.githubusercontent.com/66328989/128612321-b70fcd5f-f65f-443f-b787-6eae9e5f9cb7.png)
+**Gilman Upper School, Class of 2024**
+**Future Computer Scientist**
+Back End Developer
+Programming Wizard
+Public Speaking Genius
+Remarkable Skills in Working Until 8 AM.
+
+### Intern Group
+
+Vicki and Zoe were official interns and both participated in their first NASA internships this summer.
+
+**Vicki Carrica**
+Also known as: Vick
+![Vicki](https://user-images.githubusercontent.com/66328989/128612455-7e67781e-39ce-4867-97c0-49fc578b2fde.png)
+**Old Saybrook High School, Class of 2023**
+**Future Computational Biologist**
+Algorithm Engineer
+Web Developer
+Bagel Fanatic
+Perfect Meeting Attendence Record
+
+**Zoe Schoeneman-Frye**
+Also known as: Zo
+![Zoe](https://user-images.githubusercontent.com/66328989/128612593-b84e69cf-1c1c-4a65-ae69-2e5b5ffbd224.png)
+**Montgomery Blair High School, Class of 2022**
+**Future Computer Scientist**
+Test Engineer
+Graphic Design
+Anime Connoisseur
+Fashionista 
 
 ### Contact Us
 
