@@ -53,6 +53,7 @@ Aman, Arya, and Leo participated in an Experiential Learning Opportunity (ELO) t
 
 Also known as: AMOON
 
+<img src="https://user-images.githubusercontent.com/66328989/128611899-37e144fc-fdcc-4895-8e90-3d45ddd78c27.png" width="48">
 ![Aman](https://user-images.githubusercontent.com/66328989/128611899-37e144fc-fdcc-4895-8e90-3d45ddd78c27.png)
 
 **Gilman Upper School, Class of 2024**
