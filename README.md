@@ -93,7 +93,7 @@ Data Manager
 
 Specialist in Everything
 
-Still Developing Spelling SKills
+Still Developing Spelling Skills
 
 Story Telling Master
 
@@ -114,7 +114,7 @@ Back End Developer
 
 Programming Wizard
 
-Public Speaking Genius
+Public Speaking "Genius"
 
 Remarkable Skills in Working Until 8 AM.
 
