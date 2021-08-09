@@ -44,6 +44,7 @@
 # Website Link
 
 To view the project navigate to **[this link](https://vickicarrica.github.io/Mission-Visualization-Toolkit/Builds/fourteen/page.html)**.
+
 To view the standalone navigate to **[this link](https://github.com/vickicarrica/Mission-Visualization-Toolkit/releases/tag/v1.0)**.
 
 ## Welcome
