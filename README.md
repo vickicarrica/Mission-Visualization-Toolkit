@@ -104,7 +104,7 @@ Story Telling Master
 
 **Leo Wang**
 
-Also known as: Andallfor, Lei
+Also known as: Lei
 
 <img src="https://user-images.githubusercontent.com/66328989/128612321-b70fcd5f-f65f-443f-b787-6eae9e5f9cb7.png" width="200">
 
